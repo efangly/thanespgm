@@ -1,0 +1,60 @@
+.rdt_TableHeadRow {
+  background-color: #333366 !important;
+  font-size: 17px;
+}
+
+input[type=text], input[type=password], input[type=number], input[type=date] {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus, input[type=number]:focus, input[type=date]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+input[type=checkbox] {
+  transform: scale(1.5);
+}
+
+.form-select {
+  padding: 9px;
+  margin: 5px 0 22px 0;
+}
+.css-1s2u09g-control, .css-1pahdxg-control {
+  padding: 4px;
+  margin: 5px 0 22px 0;
+}
+
+.custom-select {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+  background-image: url("data:image/svg+xml;utf8,<svg fill='black' height='24' viewBox='0 0 24 24' width='24' xmlns='http://www.w3.org/2000/svg'><path d='M7 10l5 5 5-5z'/><path d='M0 0h24v24H0z' fill='none'/></svg>");
+  background-repeat: no-repeat;
+  background-position-x: 100%;
+  background-position-y: 10px;
+}
+
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+.registerbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}

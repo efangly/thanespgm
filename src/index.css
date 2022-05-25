@@ -1,0 +1,67 @@
+.btn-close {
+  background-color: #FF3030;
+  border: none;
+  color: white;
+  padding: 5px 16px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 0.50rem;
+}
+.btn-pdf {
+  background-color: #8B4513;
+  border: none;
+  color: white;
+  padding: 5px 16px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 0.50rem;
+}
+.btn-pdf1 {
+  background-color: #DAA520;
+  border: none;
+  color: white;
+  padding: 5px 16px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 0.50rem;
+}
+.btn-edit {
+  background-color: #005f17;
+  border: none;
+  color: white;
+  padding: 5px 16px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 0.50rem;
+}
+.btn-create {
+  background-color: #6A5ACD;
+  border: none;
+  color: white;
+  padding: 5px 16px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 0.50rem;
+}
+.bg-headtable {
+  background-color: #333366 !important;
+}
+.bg-navbg {
+  background-color: #393939 !important;
+}
+.bg-rowstable {
+  background-color: #595959 !important;
+}
+.bg-incard {
+  background-color: #363c42 !important;
+}
+.bg-cardheader {
+  background-color: #212529 !important;
+}
+
+.swal2-modal,.swal2-toast {
+  background-color: #363c42 !important;
+}
+.swal2-popup {
+  color: #eaeaea !important;
+}
